@@ -2,8 +2,8 @@ package cache
 
 import (
 	"context"
-	"github.com/devlibx/gox-base"
-	"github.com/devlibx/gox-base/errors"
+	"github.com/devlibx/gox-base/v2"
+	"github.com/devlibx/gox-base/v2/errors"
 	"github.com/devlibx/gox-cache"
 	noopCache "github.com/devlibx/gox-cache/noop"
 	redisCache "github.com/devlibx/gox-cache/redis"

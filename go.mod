@@ -5,7 +5,7 @@ go 1.21
 toolchain go1.21.4
 
 require (
-	github.com/devlibx/gox-base v0.0.90
+
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.2.0
 	github.com/redis/go-redis/v9 v9.0.2

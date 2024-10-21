@@ -3,8 +3,8 @@ package redisCache
 import (
 	"context"
 	"fmt"
-	"github.com/devlibx/gox-base"
-	"github.com/devlibx/gox-base/test"
+	"github.com/devlibx/gox-base/v2"
+	"github.com/devlibx/gox-base/v2/test"
 	goxCache "github.com/devlibx/gox-cache"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"

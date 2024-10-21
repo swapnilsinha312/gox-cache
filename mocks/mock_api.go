@@ -8,7 +8,7 @@ import (
 	context "context"
 	reflect "reflect"
 
-	gox "github.com/devlibx/gox-base"
+	gox "github.com/devlibx/gox-base/v2"
 	goxCache "github.com/devlibx/gox-cache"
 	gomock "github.com/golang/mock/gomock"
 )
